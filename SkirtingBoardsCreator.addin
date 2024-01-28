@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+	<Name>Skirting boards creator</Name>
+	<Assembly>SkirtingBoardsCreator.dll</Assembly>
+	<AddInId>EBBEC92C-D5A4-4788-993A-69D58A22DCAA</AddInId>
+	<FullClassName>SkirtingBoardsCreator.Application</FullClassName>
+	<VendorId>VendorId</VendorId>
+	<VendorDescription></VendorDescription>
+	</AddIn>
+</RevitAddIns>
